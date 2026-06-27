@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+  <!-- Fundo arredondado -->
+  <rect width="32" height="32" rx="6" fill="#0A1C2E"/>
+  <!-- Corpo da caçamba -->
+  <polygon points="5,10 27,10 24,24 8,24" fill="#F5A623"/>
+  <!-- Borda superior da caçamba -->
+  <rect x="4" y="8" width="24" height="3" rx="1.5" fill="#C7840A"/>
+  <!-- Pé esquerdo -->
+  <rect x="9" y="24" width="3" height="3" rx="1" fill="#C7840A"/>
+  <!-- Pé direito -->
+  <rect x="20" y="24" width="3" height="3" rx="1" fill="#C7840A"/>
+</svg>
